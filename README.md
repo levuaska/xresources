@@ -30,4 +30,4 @@
   
 <h2>Thanks<h2>
 
-- [Contribuitor](https://github.com/justleoo)
+- [justleoo](https://github.com/justleoo)
