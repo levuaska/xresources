@@ -16,7 +16,7 @@
 </div>
 <hr>
 
-<h2>Installation</h2>
+<h2>🔎 Installation</h2>
   
 - Use curl:
   ```
@@ -28,6 +28,6 @@
   xrdb merge <path to xresources>
   ```
   
-<h2>Thanks<h2>
+<h2>💜 Thanks<h2>
 
 - [justleoo](https://github.com/justleoo)
